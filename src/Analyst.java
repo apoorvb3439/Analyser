@@ -1,4 +1,4 @@
-package com.Apoorv.Analyser;
+//package com.Apoorv.Analyser;
 import java.lang.*;
 import java.awt.Color;
 
