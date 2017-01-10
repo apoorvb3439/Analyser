@@ -1,1 +1,1 @@
-Directory to store all src files and classes.
+Directory to store all package files and classes.
